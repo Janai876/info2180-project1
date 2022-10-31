@@ -39,7 +39,7 @@ nav a{
 
 li{
     display: inline;
-    padding: 20px;
+    padding: 10px;
 }
 
 .overview-hero{
@@ -81,7 +81,7 @@ li{
 .testing{
     background-color: #4A5568;
     color: white;
-    padding-bottom: 300px;
+    padding-bottom: 120px;
     padding-top: 40px; 
 }
 
@@ -90,7 +90,6 @@ li{
     color:white;
 }
 .testing-desciption{
-    float: left;
     margin-right: 35%;
 }
 
@@ -129,10 +128,20 @@ li{
     background-color: #5A67D8;
     padding-left: 30px;
     padding-right: 30px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     color: white;
     border-style: none;
+    margin-right:300px;
+    border-radius: 3%;
+}
+
+.newsletter input{
+    padding: 10px;
+    border-style: none;
+    float: left;
+    margin-left:300px;
+    border-radius: 3%;
 }
 
 footer{
